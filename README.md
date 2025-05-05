@@ -22,7 +22,7 @@ The aim is to extract meaningful insights about alumni career paths using SQL, P
 ---
 
 ## 📁 Project Structure
-
+```
 ├── data/
 │   ├── college_a_alumni.csv       # CSV data for College A alumni
 │   ├── college_b_alumni.csv       # CSV data for College B alumni
@@ -42,8 +42,8 @@ The aim is to extract meaningful insights about alumni career paths using SQL, P
 │
 ├── README.md                      # Project documentation
 └── requirements.txt               # Python dependencies
+```
 
----
 
 ## ⚙️ Setup & Installation
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 - `data_analysis.py` – for querying and summarizing data from the database.
 - `visualize_data.py` *(optional)* – for extra visualizations.
 
----
+```
 
 ## 📊 Visualizations (Tableau)
 
